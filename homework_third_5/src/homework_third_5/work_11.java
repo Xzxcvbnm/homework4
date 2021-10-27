@@ -15,7 +15,7 @@ public class work_11 {
 			{
 				number2=i;
 				break;
-			}
+			} 
 		}
 		number=number1*10+number2;
 		System.out.println(number);

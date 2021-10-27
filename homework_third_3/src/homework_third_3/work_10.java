@@ -16,7 +16,7 @@ public class work_10 {
 		System.out.print("Enter r2's center x-,y-coordinator,width and height: ");
 		x2=n.nextDouble();
 		y2=n.nextDouble();
-		width2=n.nextDouble();
+		width2=n.nextDouble(); 
 		height2=n.nextDouble();
 		if(width1>=width2&&height1>=height2&&Math.abs(x1-x2)<=width1&&Math.abs(y1-y2)<=height1)
 			System.out.println("r2 is inside r1");
