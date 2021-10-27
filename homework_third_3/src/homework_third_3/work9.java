@@ -15,7 +15,7 @@ public class work9 {
 			System.out.println("The point is in the triangle");
 		else
 			System.out.println("The point is not in the triangle");
- 
+  
 
 	}
 

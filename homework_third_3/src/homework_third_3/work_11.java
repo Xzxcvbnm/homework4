@@ -9,7 +9,7 @@ public class work_11 {
 		double x1,y1,r1;
 		double x2,y2,r2;
 		System.out.print("Enter circle1's center x-,y-coordinator,and radius: ");
-		x1=n.nextDouble();
+		x1=n.nextDouble(); 
 		y1=n.nextDouble();
 		r1=n.nextDouble();
 		System.out.print("Enter circle2's center x-,y-coordinator,and radius: ");

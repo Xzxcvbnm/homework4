@@ -12,7 +12,7 @@ public class work4 {
 		a=n.nextInt();
 		System.out.println("b=");
 		b=n.nextInt();
-		System.out.println("c="); 
+		System.out.println("c=");  
 		c=n.nextInt();
 		if(a+b>c&&a+c>b&&b+c>a)
 			System.out.println("三角形的周长为："+a+b+c);

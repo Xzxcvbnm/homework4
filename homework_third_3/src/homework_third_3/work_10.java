@@ -10,7 +10,7 @@ public class work_10 {
 		double x2,y2,width2,height2;
 		System.out.print("Enter r1's center x-,y-coordinator,width and height: ");
 		x1=n.nextDouble();
-		y1=n.nextDouble();
+		y1=n.nextDouble();  
 		width1=n.nextDouble();
 		height1=n.nextDouble();
 		System.out.print("Enter r2's center x-,y-coordinator,width and height: ");

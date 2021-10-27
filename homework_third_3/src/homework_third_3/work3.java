@@ -11,7 +11,7 @@ public class work3 {
 		int i=n.nextInt();
 		int n1,n2,n3;
 		int d1,d2,d3;
-		int t;
+		int t; 
 		int j; 
 		n1=number/100;
 		n2=number/10%10;
