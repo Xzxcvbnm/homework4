@@ -3,7 +3,7 @@ package homework_third_3;
 import java.util.Scanner;
 import java.util.Scanner;
 public class work7 {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//3.23
