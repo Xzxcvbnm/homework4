@@ -4,7 +4,7 @@ public class work3 {
  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//3.15
+		//3.15 
 		int number=(int)(Math.random()*1000);
 		System.out.print("Entera 3 digit integer:");
 		Scanner n=new Scanner(System.in);

@@ -10,7 +10,7 @@ public class work8 {
 		String str1=null,str2=null;
 		switch(n1)
 		{
-		case 0:
+		case 0: 
 			str1="Ace";
 			break;
 		case 1:

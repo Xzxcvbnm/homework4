@@ -4,7 +4,7 @@ public class work5 {
  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//3.21
+		//3.21 
 		Scanner n=new Scanner(System.in);
 		int year,m,q;
 		int h,k,j;

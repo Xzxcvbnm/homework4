@@ -10,7 +10,7 @@ public class work9 {
 		double x,y;
 		x=n.nextDouble();
 		y=n.nextDouble();
-		
+		 
 		if(x>0 && y>0 && y<((-1.0/2)*x+100))
 			System.out.println("The point is in the triangle");
 		else

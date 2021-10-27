@@ -4,7 +4,7 @@ public class work1 {
  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//3.4
+		//3.4 
 		int number=(int)(Math.random()*12);
 		if(number==1)
 			System.out.println("January");

@@ -4,7 +4,7 @@ public class work_10 {
  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//3.28
+		//3.28 
 		Scanner n=new Scanner(System.in);
 		double x1,y1,width1,height1;
 		double x2,y2,width2,height2;

@@ -9,7 +9,7 @@ public class work7 {
 		//3.23
 		System.out.println("Enter a point with two coordinator: ");
 		Scanner n=new Scanner(System.in);
-		float x,y;
+		float x,y; 
 		x=n.nextInt();
 		y=n.nextInt();
 		if(x<=10/2&&y<=5.0/2)
