@@ -38,7 +38,7 @@ public class work1 {
 		}
 		Arrays.sort(sumHoursCopy);
 
-		int[] sumHoursCopy1=new int[row];
+		int[] sumHoursCopy1=new int[row]; 
 		for(i=0;i<row;i++)
 		{
 			sumHoursCopy1[i]=sumHoursCopy[row-1-i];

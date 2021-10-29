@@ -11,7 +11,7 @@ public class work2 {
 		double[][] b=new double[3][3];
 		double[][] c=new double[3][3];
 		int i,j;
-		System.out.print("Enter matrix1: ");
+		System.out.print("Enter matrix1: "); 
 		for(i=0;i<3;i++)
 		{
 			for(j=0;j<3;j++)
