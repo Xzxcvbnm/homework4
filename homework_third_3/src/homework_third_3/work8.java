@@ -17,7 +17,7 @@ public class work8 {
 			str1="2";
 			break;  
 		case 2:
-			str1="3";
+			str1="3"; 
 			break;
 		case 3:
 			str1="4";

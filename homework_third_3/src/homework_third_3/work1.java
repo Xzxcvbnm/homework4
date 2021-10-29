@@ -12,10 +12,10 @@ public class work1 {
 			System.out.println("February");
 		else if(number==3)
 			System.out.println("March");
-		else if(number==4) 
+		else if(number==4)
 			System.out.println("April");
-		else if(number==5) 
-			System.out.println("May");
+		else if(number==5)    
+			System.out.println("May"); 
 		else if(number==6)
 			System.out.println("June");
 		else if(number==7)

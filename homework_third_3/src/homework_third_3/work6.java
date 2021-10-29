@@ -16,5 +16,5 @@ public class work6 {
 			System.out.println("Point ("+x+","+y+") is not in the circle");
  
 	}
-
+ 
 }

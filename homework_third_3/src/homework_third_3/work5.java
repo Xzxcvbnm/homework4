@@ -13,7 +13,7 @@ public class work5 {
 		year=n.nextInt();
 		System.out.println("Enter month:1-12: ");
 		m=n.nextInt();
-		System.out.println("Enter the day of the month:1-31: ");
+		System.out.println("Enter the day of the month:1-31: "); 
 		q=n.nextInt();   
 		if(m==1||m==2)
 		{

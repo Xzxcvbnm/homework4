@@ -14,7 +14,7 @@ public class work_10 {
 		width1=n.nextDouble();
 		height1=n.nextDouble();
 		System.out.print("Enter r2's center x-,y-coordinator,width and height: ");
-		x2=n.nextDouble();
+		x2=n.nextDouble(); 
 		y2=n.nextDouble();
 		width2=n.nextDouble(); 
 		height2=n.nextDouble();
