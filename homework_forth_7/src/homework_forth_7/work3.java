@@ -5,7 +5,7 @@ public class work3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//7.17
+		//7.17 
 		Scanner n=new Scanner(System.in);
 		System.out.print("输入学生的个数：\n");
 		int count = n.nextInt();

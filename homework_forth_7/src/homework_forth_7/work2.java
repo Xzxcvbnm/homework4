@@ -8,7 +8,7 @@ public class work2 {
 		//7.5
 		Scanner n=new Scanner(System.in);
 		System.out.println("Enter 10 numbers: ");
-		int num=0;
+		int num=0; 
 		int[] array=new int[10];
 		int i=0,j=0;
 		int count=0;

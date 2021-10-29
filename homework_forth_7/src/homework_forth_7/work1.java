@@ -9,7 +9,7 @@ public class work1 {
 		Scanner n=new Scanner(System.in);
 		System.out.println("Enter the integers between 1 and 100: ");
 		int num=n.nextInt();
-		int[] array=new int[100];
+		int[] array=new int[100]; 
 		int i=0;
 		int count=0;
 		
