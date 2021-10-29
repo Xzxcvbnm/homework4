@@ -12,7 +12,7 @@ public class work3 {
 		{
 			for(j1=i;j1<num;j1++)
 			{
-				System.out.print("    ");
+				System.out.print("    "); 
 			}
 			
 			for(j2=0;j2<=i-1;j2++)

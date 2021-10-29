@@ -4,7 +4,7 @@ public class work_16 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//5.45
+		//5.45 
 		System.out.print("Enter 10 numbers: ");
 		Scanner n=new Scanner(System.in);
 		int i;

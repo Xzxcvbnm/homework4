@@ -4,7 +4,7 @@ public class work_14 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//5.37
+		//5.37 
 		System.out.print("Please enter a decimal integer: ");
 		Scanner n=new Scanner(System.in);
 		int decimal=n.nextInt();

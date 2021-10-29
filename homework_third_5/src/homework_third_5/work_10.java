@@ -4,7 +4,7 @@ public class work_10 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//5.29
+		//5.29 
 		Scanner n=new Scanner(System.in);
 		System.out.println("请输入年份和代表该年第一天是星期几的数字： ");
 		int year=n.nextInt();

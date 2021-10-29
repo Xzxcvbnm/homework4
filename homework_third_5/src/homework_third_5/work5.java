@@ -14,7 +14,7 @@ public class work5 {
 		double rate=n.nextDouble();
 		System.out.print("\n");
 		
-		double monthRate = 0;
+		double monthRate = 0; 
 		double monthlyPayment = 0;
 		double totalPayment = 0;
 		

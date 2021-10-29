@@ -12,7 +12,7 @@ public class work6 {
 		for(i=10000;i<=100000;i+=10000)
 		{
 			
-			PI=0;
+			PI=0; 
 			for(n=1;n<=i;n++)
 			{
 				num=(1.0/(2*n-1))*4;

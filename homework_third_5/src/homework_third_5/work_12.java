@@ -7,7 +7,7 @@ public class work_12 {
 		//5.33
 		int number;
 		int i;
-		int n=0;
+		int n=0; 
 		for(number=2;number<=10000;number++)
 		{
 			n=0;

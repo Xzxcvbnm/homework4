@@ -17,7 +17,7 @@ public class work2 {
 			{
 				for(j1=1;j1<=x;j1++)
 					System.out.printf("  ");//¿Õ¸ñ
-			}
+			} 
 			
 			for(j2=i;j2>0;j2--)
 			{

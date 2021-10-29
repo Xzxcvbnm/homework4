@@ -17,7 +17,7 @@ public class work1 {
 		for(i=0;i<4;i++)
 		{
 			count=(1+0.05)*count;
-			sum+=count;
+			sum+=count; 
 			i++;
 		}
 		System.out.println("From now on, 10 years later, the total tuition fee within 4 years is :  " + sum);

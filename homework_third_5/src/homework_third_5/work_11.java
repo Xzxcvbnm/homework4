@@ -8,7 +8,7 @@ public class work_11 {
 		int number1=(int)(Math.random()*10);
 		int number2 = 0;
 		int number;
-		int i;
+		int i; 
 		for(i=0;i<10;i++)
 		{
 			if(i!=number1)

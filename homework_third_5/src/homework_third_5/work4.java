@@ -12,9 +12,9 @@ public class work4 {
 		int year=n.nextInt();
 		System.out.println("Interest Rate   Monthly Payment   TotalPayment");
 		double interestRate = 0;
-		double monthRate = 0;
+		double monthRate = 0; 
 		double monthlyPayment = 0;
-		double totalPayment = 0;
+		double totalPayment = 0;  
 		double i=5;
 		for(i=5;i<=8;i+=0.125)
 		{

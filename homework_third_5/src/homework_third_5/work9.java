@@ -6,7 +6,7 @@ public class work9 {
 		// TODO Auto-generated method stub
 		//5.28
 		Scanner n=new Scanner(System.in);
-		System.out.println("请输入年份和代表该年第一天是星期几的数字： ");
+		System.out.println("请输入年份和代表该年第一天是星期几的数字： "); 
 		int year=n.nextInt();
 		int day=n.nextInt();
 		int month;

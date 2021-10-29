@@ -4,7 +4,7 @@ public class work_13 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//5.36
+		//5.36 
 		System.out.print("Enter the first 9 digits of an ISBN as integer:");
 		Scanner n=new Scanner(System.in);
 		int i=n.nextInt();
