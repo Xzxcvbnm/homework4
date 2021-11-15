@@ -6,7 +6,7 @@ public class Program5 {
 		// TODO Auto-generated method stub
 		System.out.println("1/0");
 		//除数不能为0
-  
+   
 	}
 
 }

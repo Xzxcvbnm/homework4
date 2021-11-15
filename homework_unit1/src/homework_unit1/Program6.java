@@ -6,7 +6,7 @@ public class Program6 {
 		// TODO Auto-generated method stub
 		System.out.print("Celsius 35 is Fahrenheit degree ");
 		System.out.println((9/5)*35+32);
-
+  
 	}
 
 }
