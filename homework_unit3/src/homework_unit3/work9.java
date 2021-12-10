@@ -4,7 +4,7 @@ public class work9 {
  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//3.27 
+		//3.27  
 		System.out.println("Enter a point's x- and y-coordinator: ");
 		Scanner n=new Scanner(System.in);
 		double x,y;

@@ -4,7 +4,7 @@ public class work8 {
  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//3.24
+		//3.24 
 		int n1=(int)(System.currentTimeMillis()%12);
 		int n2=(int)(System.currentTimeMillis()%4);
 		String str1=null,str2=null;

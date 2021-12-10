@@ -2,7 +2,7 @@ package homework_unit3;
 import java.util.Scanner;
 public class work3 {
  
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
 		//3.15 
 		int number=(int)(Math.random()*1000);

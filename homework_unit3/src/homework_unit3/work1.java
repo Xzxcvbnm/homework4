@@ -2,7 +2,7 @@ package homework_unit3;
 
 public class work1 {
  
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
 		//3.4 
 		int number=(int)(Math.random()*12);

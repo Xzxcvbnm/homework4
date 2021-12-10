@@ -6,7 +6,7 @@ public class work7 {
  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//3.23
+		//3.23 
 		System.out.println("Enter a point with two coordinator: ");
 		Scanner n=new Scanner(System.in);
 		float x,y; 
