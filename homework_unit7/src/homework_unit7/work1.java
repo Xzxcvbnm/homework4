@@ -11,7 +11,7 @@ public class work1 {
 		int num=n.nextInt();
 		int[] array=new int[100]; 
 		int i=0;
-		int count=0;
+		int count=0; 
 		
 		int cnt=0; //¼ÆÊı
 		int number=0;

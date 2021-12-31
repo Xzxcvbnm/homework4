@@ -15,7 +15,7 @@ public class work3 {
 		int grades_max_index=-1;
 		int iIndex=0;
 		int index_max=-1;
-		
+		 
 		double[] grades=new double[count];
 		String[] names=new String[count];
 		
