@@ -5,7 +5,7 @@ public class work2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//8.6
+		//8.6 
 		Scanner n=new Scanner(System.in);
 		double[][] a=new double[3][3];
 		double[][] b=new double[3][3];
